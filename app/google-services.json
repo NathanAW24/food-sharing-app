@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "755836367460",
+    "project_id": "hungry-bees",
+    "storage_bucket": "hungry-bees.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755836367460:android:68e2ca9aa1f455489e6571",
+        "android_client_info": {
+          "package_name": "com.imba.hungrybees"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755836367460-8gqfltce8ah1n5emldm4ldhc0odqnka2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB4gbCF2cRMT0Tkzk1GB1P1wR3nY-IOtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755836367460-8gqfltce8ah1n5emldm4ldhc0odqnka2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

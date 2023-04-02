@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@+id/postsFragment">
+
+    <fragment
+        android:id="@+id/postsFragment"
+        android:name="com.example.just_hungry.PostsFragment"
+        android:label="Posts"
+        tools:layout="@layout/fragment_post_main" />
+    <fragment
+        android:id="@+id/postsFragment2"
+        android:name="com.example.just_hungry.PostsFragment"
+        android:label="Posts2"
+        tools:layout="@layout/fragment_post_main" />
+    <fragment
+        android:id="@+id/postsFragment3"
+        android:name="com.example.just_hungry.PostsFragment"
+        android:label="Posts3"
+        tools:layout="@layout/fragment_post_main" />
+
+    <!-- Add other fragments here, e.g., AddOrderFragment, AccountFragment -->
+</navigation>
